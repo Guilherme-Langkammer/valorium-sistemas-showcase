@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./bannerValoriumSistemas.png" alt="Valorium Sistemas — Modular Business Management Platform" width="100%">
+</p>
+
+
 <div align="center">
 
 # Valorium Sistemas
